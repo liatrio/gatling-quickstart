@@ -1,7 +1,3 @@
-// Scenario: Submit a contact form
-// Step 1: Navigate to Liatrio's dev URL
-// Step 2: Submit form
-
 package performancetests
 
 import io.gatling.core.Predef._
