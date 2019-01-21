@@ -9,11 +9,11 @@ Requirements
 
 Run the Maven build
 
-    mvn clean gatling:test
+    $ mvn clean gatling:test
 
 
 To specify the class, add the build parameter
 
-    $mvn clean gatling:test -Dgatling.simulationClass=performancetests.SubmitForm
+    $ mvn clean gatling:test -Dgatling.simulationClass=performancetests.SubmitForm
 
 
